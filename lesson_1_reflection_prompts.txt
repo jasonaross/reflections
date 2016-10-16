@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It drew my attention to the only areas that a bug could have been, or have
+	been called.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could trace back unusual functionality to when it was introduced.
+	I could replicate the introduction of a feature into other code I am
+	  writing -- sometimes you might think it's all in one spot, but there
+	  are other changes elsewhere that slipped your mind.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    manual pros: meaningful stages of work will be committed, rather than in
+	  the middle of something
+	manual cons: you can forget!
+	auto pros: no ability to forget, and sometimes you are unaware when you
+	  are about to get yourself in trouble.
+	auto cons: not necessarily meaningful snapshots
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Google Docs is made for working on one document at a time. Git is for
+	projects.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The git log command is useful for looking at the comments people made when
+    committing changes. The git diff command allows you to see the changes
+    themselves.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    No worries about going back to before the change. Try things out --
+    you can't break it!  :)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I have a project that has had incremental updates. I'd like to
+    restructure the project into modules and be able to keep track of
+    the whole thing at once.
