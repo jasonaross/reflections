@@ -1,0 +1,6 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+    1. For security against loss.
+    2. To collaborate with others.
+    3. As a way of publishing your work.
+    
