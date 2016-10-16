@@ -1,4 +1,5 @@
-When would you want to create a remote repository rather than keeping all your work local?
+When would you want to create a remote repository rather than keeping all your
+work local?
 
     1. For security against loss.
     2. To collaborate with others.
@@ -7,7 +8,9 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If you are working on a project with collaborators, it would be a real shame
+    if their automatic update pulled to your local computer and eliminated the
+    work you had been doing!
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
